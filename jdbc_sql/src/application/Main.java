@@ -10,6 +10,7 @@ import java.sql.Statement;
 public class Main {
     public static void main(String[] args) {
 
+        //select data example
         Connection conn = null;
         Statement st = null;
         ResultSet rs = null;
