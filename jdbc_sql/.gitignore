@@ -2,7 +2,7 @@
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
-.pdf
+/acesso-a-dados-com-jdbc.pdf
 
 ### Eclipse ###
 .apt_generated
@@ -28,4 +28,3 @@ bin/
 
 ### Mac OS ###
 .DS_Store
-/acesso-a-dados-com-jdbc.pdf
